@@ -63,7 +63,7 @@ sql-ai-data-lab/
 ### Phase 2 – Summarizing Data
 
 - [x] Mission 4 – Aggregate Functions
-- [ ] Mission 5 – GROUP BY
+- [x] Mission 5 – GROUP BY
 - [ ] Mission 6 – HAVING
 - [ ] 🏆 Boss Battle 2
 
