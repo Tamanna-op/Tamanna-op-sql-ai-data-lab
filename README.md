@@ -55,10 +55,10 @@ sql-ai-data-lab/
 
 ### Phase 1 – Querying Data
 
-- [ ] Mission 1 – SELECT, DISTINCT, LIMIT
-- [ ] Mission 2 – WHERE
-- [ ] Mission 3 – ORDER BY
-- [ ] 🏆 Boss Battle 1
+- [x] Mission 1 – SELECT, DISTINCT, LIMIT
+- [x] Mission 2 – WHERE
+- [x] Mission 3 – ORDER BY
+- [x] 🏆 Boss Battle 1
 
 ### Phase 2 – Summarizing Data
 
@@ -80,13 +80,6 @@ sql-ai-data-lab/
 - [ ] Mission 11 – Mixed Practice
 - [ ] Mission 12 – Final Analytics Project
 
----
-
-## 📈 Progress Log
-
-| Date | Progress |
-|------|----------|
-| Day 1 | Repository created, PostgreSQL installed, pgAdmin configured |
 
 ---
 
