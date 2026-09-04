@@ -64,8 +64,8 @@ sql-ai-data-lab/
 
 - [x] Mission 4 – Aggregate Functions
 - [x] Mission 5 – GROUP BY
-- [ ] Mission 6 – HAVING
-- [ ] 🏆 Boss Battle 2
+- [x] Mission 6 – HAVING
+- [x] 🏆 Boss Battle 2
 
 ### Phase 3 – Connecting Data
 
