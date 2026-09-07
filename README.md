@@ -69,7 +69,7 @@ sql-ai-data-lab/
 
 ### Phase 3 – Connecting Data
 
-- [ ] Mission 7 – INNER JOIN
+- [x] Mission 7 – INNER JOIN
 - [ ] Mission 8 – LEFT & RIGHT JOIN
 - [ ] Mission 9 – Multiple JOINs
 - [ ] 🏆 Boss Battle 3
